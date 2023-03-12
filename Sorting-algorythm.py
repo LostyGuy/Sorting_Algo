@@ -2,7 +2,6 @@ import random
 import time as t
 import os
 
-
 arr = [2,6,5,8,9,1,3]
 marr = [4,3,2,6,5,9,8,7,1]
 
