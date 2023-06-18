@@ -109,6 +109,8 @@ def menu():
     elif user == '4':
         exit()
     else:
+        os.system('cls')
+        print('There is no such option')
         menu()    
   
 menu()
